@@ -1,4 +1,8 @@
-### Hi there 👋
+# はやぶのGitHubプロフィールページへようこそ！
+
+## 所属団体
+・Happiness Dream Server（副鯖主）<br>
+・Universal Cube Resort
 
 <!--
 **hayabu-olc-ucr/hayabu-olc-ucr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
