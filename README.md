@@ -2,7 +2,7 @@
 
 ## 所属団体
 ・Tech Work Star（副リーダー）<br>
-・Happiness Dream Server（副鯖主）<br>
+・Happiness Dream Server（副鯖主） @Happiness-Dream-Server<br>
 ・Universal Cube Resort
 
 <!--
